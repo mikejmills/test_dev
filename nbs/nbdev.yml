@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_dev"
+  site-url: "https://mikejmills.github.io/test_dev"
+  description: "test repo"
+  repo-branch: main
+  repo-url: "https://github.com/mikejmills/test_dev"
