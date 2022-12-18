@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mikejmills.github.io',
                 'git_url': 'https://github.com/mikejmills/test_dev',
                 'lib_path': 'test_dev'},
-  'syms': {'test_dev.core': {'test_dev.core.foo': ('core.html#foo', 'test_dev/core.py')}}}
+  'syms': {'test_dev.core': {'test_dev.core.say_hello': ('core.html#say_hello', 'test_dev/core.py')}}}
