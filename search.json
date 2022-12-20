@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test_dev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation. Added a new notebook and a pip install to install torch"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "test_dev",
+    "section": "Install",
+    "text": "Install\npip install test_dev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "test_dev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "class_notebook.html",
+    "href": "class_notebook.html",
+    "title": "test_dev",
+    "section": "",
+    "text": "! pip install torch\n\nRequirement already satisfied: torch in /Users/mike/anaconda3/envs/torch-gpu/lib/python3.9/site-packages (1.13.0)\nRequirement already satisfied: typing_extensions in /Users/mike/anaconda3/envs/torch-gpu/lib/python3.9/site-packages (from torch) (4.4.0)\n\n\n\nsource\n\nHelloTensor\n\n HelloTensor (value:int)\n\nInitialize self. See help(type(self)) for accurate signature.\n\ntensor = HelloTensor(14)\nassert str(tensor) == \"14\"\n\n\n# import sys\n# sys.path.append(\"..\")\n\n# from some_lib import something\n\n# something(2)\n\n4"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\nassert say_hello(\"Mike\") == \"Hello Mike!\""
+  }
+]
