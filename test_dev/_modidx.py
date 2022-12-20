@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mikejmills.github.io',
                 'git_url': 'https://github.com/mikejmills/test_dev',
                 'lib_path': 'test_dev'},
-  'syms': {'test_dev.core': {'test_dev.core.say_hello': ('core.html#say_hello', 'test_dev/core.py')}}}
+  'syms': { 'test_dev.core': { 'test_dev.core.HelloTensor': ('class_notebook.html#hellotensor', 'test_dev/core.py'),
+                               'test_dev.core.HelloTensor.__init__': ('class_notebook.html#hellotensor.__init__', 'test_dev/core.py'),
+                               'test_dev.core.HelloTensor.__repr__': ('class_notebook.html#hellotensor.__repr__', 'test_dev/core.py')}}}
